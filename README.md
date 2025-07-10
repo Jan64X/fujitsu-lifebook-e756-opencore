@@ -148,5 +148,5 @@ Legal Disclaimer: This project is for educational purposes only. Installing macO
 ---
 
 **OpenCore Version**: 1.0.5  
-**macOS Version**: Sequoia (15.5)
+**macOS Version**: Sequoia (15.5)  
 **Last Updated**: July 2025
